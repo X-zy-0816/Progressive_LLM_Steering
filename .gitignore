@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Runtime output
+logs/
+*.log
+
+# Generated experiment artifacts
+featureDirections/
+data/benign/
+data/eval_outputs/
+data/layer_data/
+data/layer_sweep/
+csv/
