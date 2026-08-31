@@ -165,13 +165,13 @@ This code is released for research on model robustness and activation-space secu
 If this repository supports your research, please cite:
 
 ```bibtex
-@misc{xu2025progressivebehavioraldrift,
-  title         = {Progressive Behavioral Drift through Compression Valleys in Large Language Models},
-  author        = {Zhiyuan Xu and Stanislav Abaimov and Joseph Gardiner and Sana Belguith},
-  year          = {2025},
-  eprint        = {2511.17194},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CR},
-  url           = {https://arxiv.org/abs/2511.17194}
+@misc{xu2026progressivebehavioraldriftcompression,
+      title={Progressive Behavioral Drift through Compression Valleys in Large Language Models}, 
+      author={Zhiyuan Xu and Stanislav Abaimov and Joseph Gardiner and Sana Belguith},
+      year={2026},
+      eprint={2511.17194},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2511.17194}, 
 }
 ```
